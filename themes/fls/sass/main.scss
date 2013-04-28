@@ -1,0 +1,46 @@
+.section {
+	width:90%;
+	margin: 0 auto 2em;
+	padding: 2em 0 0;
+	border-bottom: 1px solid #ddd;
+}
+
+.nav li {
+	list-style: none;
+}
+
+.about { 
+	p {
+		width: 60%;
+		margin: 0 auto;
+	}
+}
+
+.gallery {
+	overflow: hidden;
+}
+
+.services {
+	.list-column {
+		display: inline-block;
+		width: 31%;
+		margin:0 1%;
+		vertical-align: top;
+	}
+}
+	
+
+.contact {
+	
+	.block {
+		display: inline-block;
+	 }
+}
+
+.contact .left {
+	width: 60%;
+}
+
+.contact .right {
+	width: 39%;
+}

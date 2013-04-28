@@ -1,0 +1,36 @@
+/* line 1, sass/typography.scss */
+body {
+  font-size: 62.5%;
+}
+
+/* line 5, sass/typography.scss */
+h1 {
+  font-size: 2.8em;
+}
+
+/* line 6, sass/typography.scss */
+h2 {
+  font-size: 2.4em;
+}
+
+/* line 7, sass/typography.scss */
+h3 {
+  font-size: 2em;
+}
+
+/* line 9, sass/typography.scss */
+.section p {
+  line-height: 1.5em;
+}
+
+/* line 13, sass/typography.scss */
+.about p {
+  font-size: 1.6em;
+}
+
+/* line 17, sass/typography.scss */
+.list-column li {
+  line-height: 1.5em;
+  list-style: none;
+  font-size: 1.8em;
+}

@@ -1,0 +1,46 @@
+/* line 1, sass/main.scss */
+.section {
+  width: 90%;
+  margin: 0 auto 2em;
+  padding: 2em 0 0;
+  border-bottom: 1px solid #ddd;
+}
+
+/* line 8, sass/main.scss */
+.nav li {
+  list-style: none;
+}
+
+/* line 13, sass/main.scss */
+.about p {
+  width: 60%;
+  margin: 0 auto;
+}
+
+/* line 19, sass/main.scss */
+.gallery {
+  overflow: hidden;
+}
+
+/* line 24, sass/main.scss */
+.services .list-column {
+  display: inline-block;
+  width: 31%;
+  margin: 0 1%;
+  vertical-align: top;
+}
+
+/* line 35, sass/main.scss */
+.contact .block {
+  display: inline-block;
+}
+
+/* line 40, sass/main.scss */
+.contact .left {
+  width: 60%;
+}
+
+/* line 44, sass/main.scss */
+.contact .right {
+  width: 39%;
+}
